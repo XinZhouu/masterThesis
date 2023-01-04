@@ -1,0 +1,10 @@
+{
+    "cpu-count": 6,
+    "grid-filter": "",
+    "min-sensor-count": 200,
+    "model": "unnamed_c8f44a2f.hbjson",
+    "north": 0.0,
+    "radiance-parameters": "",
+    "thresholds": "",
+    "wea": "Boston Logan IntL Arpt_0_8759.wea"
+}
